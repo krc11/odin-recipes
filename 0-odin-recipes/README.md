@@ -1,4 +1,6 @@
-#Recipes
+# Recipes
 this is the first project under odin web dev foundation
 
 created main page(index.html) which redirects you to different recipes.
+
+by kirti raj
